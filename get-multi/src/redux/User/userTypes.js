@@ -1,0 +1,3 @@
+
+export const GET_USER_INFO = 'GET_USER_INFO'
+export const GET_USER_INFO_SUCCESS ='GET_USER_INFO_SUCCES'

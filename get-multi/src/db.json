@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Ajith Menon",
+      "email": "ajithachus20@gmail.com",
+      "phone": "8281750948",
+      "id": 1
+    },
+    {
+      "name": "vk",
+      "phone": "8606078965",
+      "email": "vishnukrajan08@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "deepthi km",
+      "email": "deepthi123@gmail.com",
+      "phone": "5878954557",
+      "id": 5
+    },
+    {
+      "name": "sanila",
+      "phone": "4476546",
+      "email": "sanila@gmail.com",
+      "id": 6
+    }
+  ]
+}
